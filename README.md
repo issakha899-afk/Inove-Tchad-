@@ -1,4 +1,4 @@
-# Inove-Tchad-
+Inove-Tchad-
 
  PROJET DÉTAILLÉE : « INOVE-TCHAD »
 
@@ -6,7 +6,7 @@
 
 Rubrique Contenu
 Nom du projet Inove-Tchad
-Catégorie PENJ Technologie et Numérique
+Catégorie Technologie et Numérique
 Localisation Abéché (pilotage), avec extension envisagée vers d'autres villes du Tchad
 Durée 12 mois (Phase pilote)
 Porteur AL-HADJISSAKHAADAM, étudiant à l’institut Supérieur Polytechnique d’Abéché (ISPA).
@@ -104,7 +104,7 @@ Partenaire potentiel Type de soutien
 Ambassade de France au Tchad Appel à projets « Agir, innover, impacter »
 Banque Africaine de Développement (BAD) Dons pour l'inclusion financière numérique des jeunes
 Programme des Nations Unies pour le Développement (PNUD) Financement de projets d'innovation sociale
-Ministère de la Jeunesse et des Sports Subventions dans le cadre du PENJ
+Ministère de la Jeunesse et des Sports 
 Entreprises privées (télécoms) Mécénat, mise à disposition d'API, co-financement
 9. INDICATEURS DE SUIVI ET D'ÉVALUATION
 Objectif Indicateur Cible
@@ -112,5 +112,5 @@ Plateforme opérationnelle Nombre d'utilisateurs actifs 500 utilisateurs/mois à
 Collecte de déchets Tonnes de plastique collectées 2 tonnes à 12 mois
 Production d'éco-pavés Nombre de pavés produits 1 500 pavés à 12 mois
 Formation Nombre de jeunes formés 50 jeunes (dont 20 femmes)
-Sensibilisation Nombre de personnes touchées 2 00 citoyens.
+Sensibilisation Nombre de personnes touchées 2 000 citoyens.
 Projet à été réalisé par l’étudiant AL-HADJ ISSAKHA ADAM .
