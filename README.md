@@ -112,7 +112,5 @@ Plateforme opérationnelle Nombre d'utilisateurs actifs 500 utilisateurs/mois à
 Collecte de déchets Tonnes de plastique collectées 2 tonnes à 12 mois
 Production d'éco-pavés Nombre de pavés produits 1 500 pavés à 12 mois
 Formation Nombre de jeunes formés 50 jeunes (dont 20 femmes)
-Sensibilisation Nombre de personnes touchées 2 000 citoyens.
-Projet à été réalisé par l’étudiant AL-HADJ ISSAKHA ADAM 
-
-
+Sensibilisation Nombre de personnes touchées 2 00 citoyens.
+Projet à été réalisé par l’étudiant AL-HADJ ISSAKHA ADAM .
